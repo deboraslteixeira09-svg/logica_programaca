@@ -6,7 +6,6 @@
 
 ### ✨ Sobre mim
 
-- 🔭 Atualmente estudando **[Introdução À Programação Com Python]**
-- 🌱 Aprendendo e aprofundando meus conhecimentos em **[Pytron]**
-- ⚡ Curiosidade: **[Sei imitar o Marciano de Lonney Tunes]** (=^･ω･^=)
-
+- 🔭 Atualmente estudando **Introdução À Programação Com Python**
+- 🌱 Aprendendo e aprofundando meus conhecimentos em **Pytron**
+- ⚡ Curiosidade: **Sei imitar o Marciano de Lonney Tunes** (=^･ω･^=)

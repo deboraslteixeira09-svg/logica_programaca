@@ -22,3 +22,6 @@ elif cat == 4:
 elif cat == 5:
     preco = 31
     print(f"O preço é: {preco}")
+    
+elif cat >= 6:
+    print('Invalido')

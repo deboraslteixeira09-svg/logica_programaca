@@ -7,7 +7,7 @@ if cat == 1:
     preco = 10
     print(f"O preço é: {preco}")
 
-elif cat == 2: 
+elif cat == 2: s
     prco = 18
     print(f"O preço é: {preco}")
 
